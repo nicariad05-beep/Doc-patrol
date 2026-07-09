@@ -10,7 +10,7 @@ To install Doc Patrol, run:
 npm install -g doc-patrol
 ```
 
-For more details, visit our [SDK documentation](https://docs.docpatrol.example.com/sdk/v2).
+For more details, visit our [GitHub repository](https://github.com/nicariad05-beep/Doc-patrol).
 
 ## Quick Start
 
@@ -29,14 +29,13 @@ doc-patrol scan https://your-docs.com
 
 ## Authentication
 
-Use the [authentication guide](https://docs.docpatrol.example.com/auth) to set up your API keys.
+See the [authentication guide](https://github.com/nicariad05-beep/Doc-patrol) for setup instructions.
 
 ## Troubleshooting
 
-If you run into issues, check the [FAQ page](https://docs.docpatrol.example.com/faq).
+If you run into issues, check the [GitHub issues](https://github.com/nicariad05-beep/Doc-patrol/issues).
 
 ## Learn More
 
-- [API Reference](https://docs.docpatrol.example.com/api/v1)
-- [Configuration Options](https://docs.docpatrol.example.com/config)
-- [Changelog](https://docs.docpatrol.example.com/changelog)
+- [README](https://github.com/nicariad05-beep/Doc-patrol)
+- [Changelog](https://github.com/nicariad05-beep/Doc-patrol/blob/main/CHANGELOG.md)
